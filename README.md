@@ -19,10 +19,12 @@ camiones, camionetas, barcos y aviones para transportarla:
 5. La carga pueden ser contenedores o paquetes.
 6. Los contenedores pueden viajar solamente por barco y camión.
 7. Los paquetes pueden viajar solamente por avión y camioneta.
+   
 Modelo 1: En este modelo un camión o un barco solamente pueden llevar un contenedor a la
 vez, y las camionetas y los aviones pueden llevar solamente un paquete a la vez.
 Genera tres ejemplos de problemas, con diferente cantidad de paquetes, contenedores,
 aviones y barcos, ubícalos en las ciudades propuestas y resuélvelos usando tu modelo.
+
 Modelo 2: En este modelo, además de lo anterior, hasta dos paquetes pueden viajar dentro
 de un contenedor.
 Genera tres ejemplos de problemas, con diferente cantidad de paquetes, contenedores,
